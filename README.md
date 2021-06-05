@@ -1,2 +1,2 @@
-# -numerical_calculation-
+# numerical_calculation
 数值方法程序
